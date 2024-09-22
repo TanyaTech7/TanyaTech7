@@ -1,6 +1,6 @@
 ABOUT ME:
 
-Hi,I am Tanya a first year BTech. student at Maharishi Markandeshwar(Deemed 
+Hi,I am Tanya a first year undergraduate BTech. student at Maharishi Markandeshwar(Deemed 
 to be university).I am currently working on 
 improving my programming skills and exploring 
 AI driven projects.I am comfortable with 
